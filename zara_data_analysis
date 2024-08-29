@@ -2,15 +2,11 @@
 
 This repository contains the data, code, and analysis results for a comprehensive study of Zara's product offerings.
 
-## Project Overview
-
-* **Goal:** Analyze product trends, customer preferences, and pricing strategies.
-* **Data:** https://docs.google.com/spreadsheets/d/18YVb88D5j7V3mGrBcYaFvBV6cjBMsKGK1_SgTzp_U8M/edit?usp=sharing
-* **Methodology:** This analysis aimed to evaluate product performance by examining key metrics and identifying trends within the dataset. A total of five product categories (193 products) were analyzed to understand factors influencing sales and overall product success.
-* **Findings:** https://docs.google.com/document/d/1N-HcnjK4nBpexMvCTLA7YyCKje2lP2SjcOhYCxNn8FI/edit?usp=sharing
+Here is a link to the spreadsheet file: [zara spreadsheet](https://tinyurl.com/analysiszara)
+You can also find the analysis report here: [zara report](https://tinyurl.com/zarareport).
 
 
 ## Resources
 
-* **Data Source:** https://www.kaggle.com/datasets/xontoloyo/data-penjualan-zara
+* **Data Source:** (https://www.kaggle.com/datasets/xontoloyo/data-penjualan-zara)
 * **Tools Used:** googlesheets
